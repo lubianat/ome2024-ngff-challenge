@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - main
+      - sandbox
   workflow_dispatch:
 permissions:
   contents: write
