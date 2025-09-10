@@ -195,7 +195,7 @@
 
 
   :root {
-  --icon-size: 20px;
+  --icon-size: 22px;
 }
 
   .icon {
